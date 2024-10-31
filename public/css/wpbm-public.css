@@ -1,0 +1,71 @@
+.badge_post_main {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.badge_post_main .single_badge, .badge_post_main .single_badge.badge_thumb {
+    display: inline-block;
+    margin-right: 4px;
+    margin-left: 0;
+    margin-bottom: 4px !important;
+}
+.badge_post_main .single_badge:last-child, .badge_post_main .single_badge.badge_thumb:last-child {
+    margin-right: 0;
+}
+
+.badge_post_main .badge_thumb {
+    margin: 0;
+    height: auto;
+}
+
+.badge_archive_single {
+    text-align: center;
+    background-color: #FAFAFA;
+    margin-bottom: 30px
+}
+
+.badge_archive_single img {
+    border-radius: 0!important;
+    box-shadow: none!important;
+    width: 100%;
+    height: auto
+}
+
+.badge_archive_single a.badge_archive_single_title {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-family: inherit;
+    font-weight: 600
+}
+
+.badge_archive_single .badge_archive_single_cartbtn a {
+    display: block;
+    padding: 6px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #E84145
+}
+
+.badge_archive_single .badge_archive_single_cartbtn a:hover {
+    opacity: .9
+}
+
+.badge_post_main h3.product_filter_title {
+    margin: 0 0 5px;
+    padding: 0
+}
+
+h3.product_from {
+    margin-bottom: 20px!important;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #F2F2F2
+}
+
+.cpp_badge_wrapper,
+.spp_badge_wrapper {
+    position: absolute;
+    z-index: 100;
+    width: 100%
+}

@@ -1,0 +1,41 @@
+= 1.0.1 - 25 December 2022 =
+
+* Fix: Some minor issues
+
+= 1.0.2 - 18 January 2023 =
+
+* Fix: Some minor issues
+
+= 1.0.3 - 06 April 2023 =
+
+* Fix: Some minor issues
+
+= 1.0.4 - 26 July 2023 =
+
+New: support for WooCommerce 7.9
+
+= 1.1.0 - 09 Aught 2023 =
+
+Update: Added support for WooCommerce 8.0.0.
+Update: Added support for Wordpress 6.3
+Update: Updated the admin panel for improved functionality.
+Fix: Resolved badge size issues on shop and single pages.
+Fix: Enhanced badge support in the gallery.
+Fix : Some others minor issues.
+
+= 1.2.0 - 10 October 2023 =
+Fix: permalinks base issues 
+
+= 1.2.1 - 11 October 2023 =
+Fix : badge permalink issues
+
+= 1.2.2 - 11 November 2023 =
+Update: support for WordPress 6.4
+
+= 1.2.3 - 27 December 2023 =
+Add: vertically alignment settings
+
+= 1.2.4 - 20 April 2024 =
+Add: Removed Badge Link settings
+Update: Codestar latest version
+Update: support for WordPress 6.5.2

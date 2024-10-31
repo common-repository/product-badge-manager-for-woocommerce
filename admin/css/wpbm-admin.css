@@ -1,0 +1,66 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wpbm_pro_button {
+    color: #93003c;
+    text-shadow: 1px 1px 1px #eee;
+    font-weight: 700;
+}
+
+.pro_only label strong, .pro_only h4 strong{
+    color: #a5a5a5;
+    padding: 0 4px;
+    font-size: 13px;
+    text-align: center;
+    font-weight: 500;
+}
+.csf-field-switcher.pro_only {
+    pointer-events: none;
+}
+.csf-field-slider.pro_only {
+    pointer-events: none;
+}
+.csf-field-slider.pro_only .csf-fieldset {
+    pointer-events: none;
+    opacity: .4;
+}
+.csf-field-select.pro_only select{ 
+    pointer-events: none;
+    opacity: .4;
+}
+.pro_only .csf--switcher{
+    background: #cbcfd0;
+}
+/* .pro_only.csf-field-switcher .csf--ball::after {
+    content: "PRO";
+    position: relative;
+    text-align: center;
+    width: 24px;
+    float: right;
+    font-weight: 600;
+    font-size: 8px;
+    color: #a5a5a5;
+    opacity: 1;
+} */
+
+.pro_only_heading  h4{
+    display: none !important;
+}
+
+.toplevel_page_wpbm-settings a {
+    display: flex;
+    align-items: center;
+}
+
+.toplevel_page_wpbm-settings a .wp-menu-image.dashicons-before {
+    padding: 0 !important;
+}
+
+.toplevel_page_wpbm-settings a .wp-menu-image.dashicons-before img {
+    padding: 0 !important;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 7px;
+}

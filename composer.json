@@ -1,0 +1,12 @@
+{
+    "name": "boomdevs/product-badge-manager-for-woocommerce",
+    "require": {
+        "appsero/client": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Boomdevs",
+            "email": "contact@boomdevs.com"
+        }
+    ]
+}
